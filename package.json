@@ -1,8 +1,8 @@
 {
-  "homepage": "https://mypass.github.io/mypass-reactApp",
-  "name": "passward-manager",
-  "private": true,
+  "name": "my-app",
   "version": "0.0.0",
+  "private": true,
+  "homepage": "https://username.github.io/repository-name",
   "type": "module",
   "scripts": {
     "dev": "vite",
